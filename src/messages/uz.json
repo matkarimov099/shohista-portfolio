@@ -1,0 +1,129 @@
+{
+  "hero": {
+    "greeting": "Salom, men",
+    "name": "Shohista",
+    "role": "Ingliz tili o'qituvchisi",
+    "description": "8+ yillik tajriba, 2000+ o'quvchi va 90% sertifikatsiya muvaffaqiyati. Express Education Center asoschisi.",
+    "viewCourses": "Kurslarim",
+    "contactMe": "Bog'lanish"
+  },
+  "about": {
+    "title": "Men haqimda",
+    "description": "8+ yillik tajribaga ega sertifikatlangan ingliz tili o'qituvchisi. Express Education Center asoschisi va Unione International School da dars beraman.",
+    "skillsTitle": "O'qitish yo'nalishlari",
+    "experienceTitle": "Ish tajribasi",
+    "whoIAm": "Men kim?",
+    "whoIAmText": "Men 8 yildan ortiq professional tajribaga ega ingliz tili o'qituvchisiman. IELTS tayyorgarlik kurslari, CEFR darajali kurslar, umumiy va biznes ingliz tili bo'yicha mutaxassisman. Mening o'qitish uslubim zamonaviy metodikalarni har bir o'quvchiga individual yondashish bilan birlashtiradi. 90% sertifikatsiya muvaffaqiyati va 2000 dan ortiq o'qitilgan o'quvchilar bilan ingliz tili ta'limida mukammallikka intilaman.",
+    "education": "Sertifikatlar",
+    "degree": "IELTS & CEFR sertifikatlari",
+    "university": "Ko'p darajali ingliz tili o'qitish",
+    "educationYears": "Doimiy kasbiy rivojlanish",
+    "languages": "Tillar",
+    "uzbek": "O'zbek tili",
+    "uzbekLevel": "Ona tili",
+    "english": "Ingliz tili",
+    "englishLevel": "C2 - Mukammal daraja",
+    "russian": "Rus tili",
+    "russianLevel": "B2 - Yuqori o'rta",
+    "location": "Joylashuv",
+    "currentLocation": "Urganch, O'zbekiston",
+    "readyToRelocate": "Dunyo bo'ylab onlayn darslar mavjud",
+    "experience1Title": "Asoschisi va bosh o'qituvchi",
+    "experience1Company": "Express Education Center",
+    "experience1Period": "2021 - Hozir",
+    "experience1Description": "Muvaffaqiyatli ingliz tili ta'lim markazini asos solish va boshqarish. O'quv dasturlarini ishlab chiqish, o'qituvchilarni tayyorlash va yuqori darajali IELTS tayyorgarlik kurslarini shaxsan olib borish.",
+    "experience2Title": "Ingliz tili o'qituvchisi",
+    "experience2Company": "Unione International School",
+    "experience2Period": "2024 - Hozir",
+    "experience2Description": "Xalqaro standartlarga muvofiq turli darajalarda ingliz tilini o'qitish. Innovatsion o'qitish usullarini joriy etish va o'quvchilarni xalqaro sertifikatlarga tayyorlash.",
+    "experience3Title": "Ingliz tili o'qituvchisi",
+    "experience3Company": "Til ta'lim markazi",
+    "experience3Period": "2016 - 2019",
+    "experience3Description": "Har qanday yosh va darajadagi o'quvchilar bilan ishlash orqali asosiy o'qituvchilik ko'nikmalarini rivojlantirish. IELTS tayyorgarligi va umumiy ingliz tili kurslari bo'yicha tajriba orttirish.",
+    "experience4Title": "Ta'lim va malaka oshirish",
+    "experience4Company": "Kasbiy rivojlanish",
+    "experience4Period": "Doimiy",
+    "experience4Description": "Kasbiy rivojlanish kurslari, IELTS ekspert tayyorgarligi va ingliz tili ta'limidagi eng so'nggi tendentsiyalarni kuzatish orqali o'qitish metodikalarini doimiy takomillashtirish."
+  },
+  "courses": {
+    "title": "Kurslarim",
+    "subtitle": "Barcha darajalar uchun keng qamrovli ingliz tili dasturlari",
+    "contactButton": "Telegram orqali bog'lanish",
+    "popular": "Mashhur",
+    "duration": "Davomiyligi",
+    "level": "Daraja",
+    "features": "Nimalarni o'rganasiz",
+    "enroll": "Ro'yxatdan o'tish",
+    "learnMore": "Batafsil",
+    "ieltsPrep": "IELTS tayyorgarligi",
+    "ieltsDesc": "Barcha IELTS modullari bo'yicha keng qamrovli tayyorgarlik, amaliy testlar va shaxsiy fikr-mulohazalar",
+    "generalEnglish": "Umumiy ingliz tili",
+    "generalDesc": "O'qish, yozish, tinglash va gapirish ko'nikmalarida mustahkam asos yaratish",
+    "businessEnglish": "Biznes ingliz tili",
+    "businessDesc": "Ish joyida muloqot, taqdimotlar va muzokaralar uchun professional ingliz tili",
+    "kidsEnglish": "Bolalar uchun ingliz tili",
+    "kidsDesc": "Yosh o'quvchilar uchun maxsus ishlab chiqilgan qiziqarli va jalb etuvchi ingliz tili darslari",
+    "noCourses": "Kurslar topilmadi",
+    "ielts": {
+      "title": "IELTS tayyorgarligi",
+      "description": "To'rtta ko'nikma bo'yicha keng qamrovli IELTS tayyorgarligi, sinov testlari va shaxsiy fikr-mulohazalar"
+    },
+    "general": {
+      "title": "Umumiy ingliz tili",
+      "description": "Barcha darajalar uchun kundalik ingliz tili muloqotida mustahkam asos yaratish"
+    },
+    "business": {
+      "title": "Biznes ingliz tili",
+      "description": "Ish joyida muvaffaqiyat uchun professional ingliz tili, jumladan elektron pochta, taqdimotlar va uchrashuvlar"
+    },
+    "kids": {
+      "title": "Bolalar uchun ingliz tili",
+      "description": "Yosh o'quvchilar uchun maxsus ishlab chiqilgan qiziqarli va jalb etuvchi ingliz tili darslari"
+    }
+  },
+  "testimonials": {
+    "title": "O'quvchilar muvaffaqiyat hikoyalari",
+    "subtitle": "O'quvchilarim o'z ta'lim sayohatlari haqida nima deyishadi",
+    "statistics": "Mening yutuqlarim",
+    "studentsCount": "2000+",
+    "studentsLabel": "O'qitilgan o'quvchilar",
+    "certificationRate": "90%",
+    "certificationLabel": "Sertifikatsiya muvaffaqiyati",
+    "yearsExperience": "8+",
+    "yearsLabel": "Yillik tajriba",
+    "successStories": "Muvaffaqiyat hikoyalari",
+    "viewAll": "Barcha fikrlarni ko'rish",
+    "stats": {
+      "years": "Yillik tajriba",
+      "students": "O'qitilgan o'quvchilar",
+      "successRate": "Sertifikatsiya darajasi"
+    },
+    "quote1": "IELTS tayyorgarlik kursi ajoyib edi! Tizimli yondashuv va shaxsiy fikr-mulohazalar tufayli maqsadli ballga erishdim.",
+    "quote2": "Ingliz tilim keskin yaxshilandi. O'qitish usuli qiziqarli va haqiqiy muloqot uchun samarali.",
+    "quote3": "Men ko'rgan eng yaxshi ingliz tili o'qituvchisi! Darslar yaxshi tashkil etilgan va fikr-mulohazalar bebaho.",
+    "quote4": "Biznes ingliz tili kursi menga karyeramda oldinga siljishga yordam berdi. Mutaxassislarga juda tavsiya etaman!"
+  },
+  "contact": {
+    "title": "Bog'lanish",
+    "subtitle": "Ingliz tilini o'rganish sayohatingizni boshlashga tayyormisiz?",
+    "dragHint": "Kartalarni sudrab ko'ring",
+    "email": "Email",
+    "telegram": "Telegram",
+    "linkedin": "LinkedIn"
+  },
+  "nav": {
+    "home": "Bosh sahifa",
+    "about": "Men haqimda",
+    "courses": "Kurslar",
+    "contact": "Bog'lanish",
+    "testimonials": "Fikrlar",
+    "telegram": "Xabar yozish"
+  },
+  "footer": {
+    "builtWith": "Ingliz tili o'qitish mahorati",
+    "copyright": "© {year} Shohista. Barcha huquqlar himoyalangan.",
+    "version": "Ingliz tili o'qituvchisi v8.1",
+    "status": "Yangi o'quvchilar qabul qilinmoqda",
+    "techStack": "IELTS • CEFR • General • Business"
+  }
+}

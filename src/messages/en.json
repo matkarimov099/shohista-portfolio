@@ -1,0 +1,129 @@
+{
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Shohista",
+    "role": "English Teacher",
+    "description": "8+ years of experience teaching English with 2000+ students taught and 90% certification success rate. Founder of Express Education Center.",
+    "viewCourses": "View Courses",
+    "contactMe": "Contact Me"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "Certified English Teacher with 8+ years of experience. Founder of Express Education Center and currently teaching at Unione International School.",
+    "skillsTitle": "Teaching Specializations",
+    "experienceTitle": "Experience",
+    "whoIAm": "Who am I?",
+    "whoIAmText": "I'm a passionate English teacher with over 8 years of professional experience in language education. I specialize in IELTS preparation, CEFR level courses, General English, and Business English. My teaching approach combines modern methodologies with personalized attention to help each student achieve their language goals. With a 90% certification success rate and over 2000 students taught, I am committed to delivering excellence in English education.",
+    "education": "Certifications",
+    "degree": "IELTS & CEFR Certified",
+    "university": "Multi-level English Teaching",
+    "educationYears": "Continuous Professional Development",
+    "languages": "Languages",
+    "uzbek": "Uzbek",
+    "uzbekLevel": "Native",
+    "english": "English",
+    "englishLevel": "C2 - Proficient",
+    "russian": "Russian",
+    "russianLevel": "B2 - Upper Intermediate",
+    "location": "Location",
+    "currentLocation": "Urgench, Uzbekistan",
+    "readyToRelocate": "Available for online classes worldwide",
+    "experience1Title": "Founder & Lead Teacher",
+    "experience1Company": "Express Education Center",
+    "experience1Period": "2021 - Present",
+    "experience1Description": "Founded and lead a successful English education center. Developing curriculum, training teachers, and personally teaching advanced IELTS preparation courses with consistently high student success rates.",
+    "experience2Title": "English Teacher",
+    "experience2Company": "Unione International School",
+    "experience2Period": "2024 - Present",
+    "experience2Description": "Teaching English across multiple levels following international standards. Implementing innovative teaching methods and preparing students for international certifications.",
+    "experience3Title": "English Teacher",
+    "experience3Company": "Language Education Center",
+    "experience3Period": "2016 - 2019",
+    "experience3Description": "Developed foundational teaching skills while working with students of all ages and levels. Gained expertise in IELTS preparation and General English courses.",
+    "experience4Title": "Education & Training",
+    "experience4Company": "Professional Development",
+    "experience4Period": "Ongoing",
+    "experience4Description": "Continuously improving teaching methodologies through professional development courses, IELTS examiner training, and staying updated with the latest trends in English language education."
+  },
+  "courses": {
+    "title": "My Courses",
+    "subtitle": "Comprehensive English programs for all levels",
+    "contactButton": "Contact via Telegram",
+    "popular": "Popular",
+    "duration": "Duration",
+    "level": "Level",
+    "features": "What you'll learn",
+    "enroll": "Enroll Now",
+    "learnMore": "Learn More",
+    "ieltsPrep": "IELTS Preparation",
+    "ieltsDesc": "Comprehensive preparation for all IELTS modules with practice tests and personalized feedback",
+    "generalEnglish": "General English",
+    "generalDesc": "Build strong foundations in reading, writing, listening, and speaking skills",
+    "businessEnglish": "Business English",
+    "businessDesc": "Professional English for workplace communication, presentations, and negotiations",
+    "kidsEnglish": "English for Kids",
+    "kidsDesc": "Fun and engaging English lessons designed specifically for young learners",
+    "noCourses": "No courses found",
+    "ielts": {
+      "title": "IELTS Preparation",
+      "description": "Comprehensive IELTS preparation covering all four skills with mock tests and personalized feedback"
+    },
+    "general": {
+      "title": "General English",
+      "description": "Build strong foundations in everyday English communication for all levels"
+    },
+    "business": {
+      "title": "Business English",
+      "description": "Professional English for workplace success including emails, presentations, and meetings"
+    },
+    "kids": {
+      "title": "English for Kids",
+      "description": "Fun and engaging English lessons designed specifically for young learners"
+    }
+  },
+  "testimonials": {
+    "title": "Student Success Stories",
+    "subtitle": "What my students say about their learning journey",
+    "statistics": "My Achievements",
+    "studentsCount": "2000+",
+    "studentsLabel": "Students Taught",
+    "certificationRate": "90%",
+    "certificationLabel": "Certification Success Rate",
+    "yearsExperience": "8+",
+    "yearsLabel": "Years of Experience",
+    "successStories": "Success Stories",
+    "viewAll": "View All Testimonials",
+    "stats": {
+      "years": "Years Experience",
+      "students": "Students Taught",
+      "successRate": "Certification Rate"
+    },
+    "quote1": "The IELTS preparation course was excellent! I achieved my target score thanks to the structured approach and personalized feedback.",
+    "quote2": "My English improved dramatically. The teaching method is engaging and effective for real-world communication.",
+    "quote3": "Best English teacher I've ever had! The lessons are well-organized and the feedback is invaluable.",
+    "quote4": "The Business English course helped me advance in my career. Highly recommended for professionals!"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "Ready to start your English learning journey?",
+    "dragHint": "Drag cards to explore",
+    "email": "Email",
+    "telegram": "Telegram",
+    "linkedin": "LinkedIn"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "courses": "Courses",
+    "contact": "Contact",
+    "testimonials": "Testimonials",
+    "telegram": "Message Me"
+  },
+  "footer": {
+    "builtWith": "English Teaching Excellence",
+    "copyright": "© {year} Shohista. All rights reserved.",
+    "version": "English Teacher v8.1",
+    "status": "Accepting new students",
+    "techStack": "IELTS • CEFR • General • Business"
+  }
+}
