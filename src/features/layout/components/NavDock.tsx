@@ -52,7 +52,6 @@ function NavIconContainer({
   title,
   icon,
   href,
-  isHighlighted,
   isActive,
 }: {
   mouseX: MotionValue;
@@ -226,9 +225,7 @@ export function NavDock() {
                     >
                       <div
                         className={`h-6 w-6 transition-colors ${
-                          isActive
-                            ? "text-purple-400"
-                            : "text-muted-foreground"
+                          isActive ? "text-purple-400" : "text-muted-foreground"
                         }`}
                         aria-hidden="true"
                       >

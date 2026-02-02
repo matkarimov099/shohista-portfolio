@@ -80,9 +80,7 @@ export function AboutSection() {
               <h3 className="text-xl font-bold text-purple-400">
                 {t("whoIAm")}
               </h3>
-              <p className="mt-2 text-muted-foreground">
-                {t("whoIAmText")}
-              </p>
+              <p className="mt-2 text-muted-foreground">{t("whoIAmText")}</p>
             </GlassCard>
           </motion.div>
 
@@ -97,12 +95,8 @@ export function AboutSection() {
               <h3 className="text-xl font-bold text-purple-400">
                 {t("education")}
               </h3>
-              <p className="mt-2 text-sm text-foreground">
-                {t("degree")}
-              </p>
-              <p className="text-sm text-muted-foreground">
-                {t("university")}
-              </p>
+              <p className="mt-2 text-sm text-foreground">{t("degree")}</p>
+              <p className="text-sm text-muted-foreground">{t("university")}</p>
               <p className="text-sm text-muted-foreground">
                 {t("educationYears")}
               </p>
@@ -123,9 +117,7 @@ export function AboutSection() {
               </h3>
               <div className="mt-3 flex flex-wrap gap-6">
                 <div>
-                  <p className="font-semibold text-foreground">
-                    {t("uzbek")}
-                  </p>
+                  <p className="font-semibold text-foreground">{t("uzbek")}</p>
                   <p className="text-sm text-muted-foreground">
                     {t("uzbekLevel")}
                   </p>
@@ -162,10 +154,7 @@ export function AboutSection() {
                 {t("location")}
               </h3>
               <div className="mt-2 flex items-center gap-2">
-                <IconMapPin
-                  size={18}
-                  className="text-purple-400"
-                />
+                <IconMapPin size={18} className="text-purple-400" />
                 <p className="text-sm text-foreground">
                   {t("currentLocation")}
                 </p>

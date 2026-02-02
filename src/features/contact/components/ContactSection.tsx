@@ -12,7 +12,6 @@ import {
   DraggableCardContainer,
 } from "@/shared/components/aceternity/draggable-card";
 import { Meteors } from "@/shared/components/aceternity/meteors";
-import { siteConfig } from "@/shared/config/site";
 
 const CONTACT_ITEMS = [
   {

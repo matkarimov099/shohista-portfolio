@@ -1,9 +1,6 @@
 "use client";
 
-import {
-  IconBrandInstagram,
-  IconBrandTelegram,
-} from "@tabler/icons-react";
+import { IconBrandInstagram, IconBrandTelegram } from "@tabler/icons-react";
 import {
   AnimatePresence,
   type MotionValue,

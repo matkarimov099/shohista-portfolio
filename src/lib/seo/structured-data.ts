@@ -13,10 +13,7 @@ export function generatePersonSchema() {
     url: BASE_URL,
     jobTitle: seoConfig.author.jobTitle,
     description: `${seoConfig.author.name} - ${seoConfig.author.jobTitle} from Uzbekistan. 8+ years of experience, 2000+ students, 90% certification rate. Founder of Express Education Center.`,
-    sameAs: [
-      seoConfig.social.telegram,
-      seoConfig.social.instagram,
-    ],
+    sameAs: [seoConfig.social.telegram, seoConfig.social.instagram],
     knowsAbout: [
       "English Teaching",
       "IELTS Preparation",

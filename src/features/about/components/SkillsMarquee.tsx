@@ -1,9 +1,9 @@
 "use client";
 
+import { useTranslations } from "next-intl";
 import { SKILL_CATEGORIES } from "@/features/about/data/skills";
 import { InfiniteMovingCards } from "@/shared/components/aceternity/infinite-moving-cards";
 import { TypewriterEffect } from "@/shared/components/aceternity/typewriter-effect";
-import { useTranslations } from "next-intl";
 
 const skillDescriptions: Record<string, string> = {
   Speaking: "Developing fluent communication and confident expression",
@@ -40,7 +40,9 @@ export function SkillsMarquee() {
   return (
     <div className="mt-16 space-y-4">
       <TypewriterEffect
-        words={t("skillsTitle").split(" ").map((word) => ({ text: word }))}
+        words={t("skillsTitle")
+          .split(" ")
+          .map((word) => ({ text: word }))}
         className="mb-6 text-xl sm:text-2xl font-bold"
         cursorClassName="bg-primary h-4 md:h-6"
       />

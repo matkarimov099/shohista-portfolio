@@ -4,8 +4,18 @@ import { useTranslations } from "next-intl";
 import { Timeline } from "@/shared/components/aceternity/timeline";
 
 const ACHIEVEMENTS = {
-  expressEducation: ["IELTS Preparation", "General English", "Business English", "Kids English"],
-  unioneSchool: ["Multi-level Teaching", "CEFR Assessment", "Student Mentoring", "Curriculum Development"],
+  expressEducation: [
+    "IELTS Preparation",
+    "General English",
+    "Business English",
+    "Kids English",
+  ],
+  unioneSchool: [
+    "Multi-level Teaching",
+    "CEFR Assessment",
+    "Student Mentoring",
+    "Curriculum Development",
+  ],
   previousTeaching: ["General English", "Grammar Focus", "Speaking Practice"],
 };
 
