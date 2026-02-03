@@ -5,7 +5,7 @@ export default function manifest(): MetadataRoute.Manifest {
   return {
     name: `${seoConfig.siteName} - ${seoConfig.author.jobTitle}`,
     short_name: seoConfig.siteNameShort,
-    description: `${seoConfig.author.jobTitle} with 6+ years of experience in React, Next.js, TypeScript`,
+    description: `${seoConfig.author.jobTitle} with 8+ years of experience in IELTS, CEFR, General and Business English`,
     start_url: "/",
     display: "standalone",
     background_color: seoConfig.theme.backgroundColor,
@@ -19,7 +19,7 @@ export default function manifest(): MetadataRoute.Manifest {
         purpose: "any",
       },
     ],
-    categories: ["portfolio", "developer", "technology"],
+    categories: ["portfolio", "education", "teaching"],
     lang: "en",
     dir: "ltr",
   };
