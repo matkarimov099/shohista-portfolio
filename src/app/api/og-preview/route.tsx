@@ -42,33 +42,25 @@ export async function GET() {
           zIndex: 1,
         }}
       >
-        {/* Avatar */}
+        {/* Initials */}
         <div
           style={{
             width: 150,
             height: 150,
             borderRadius: "50%",
-            overflow: "hidden",
             marginBottom: 30,
             boxShadow: "0 0 60px rgba(139, 92, 246, 0.4)",
             border: "4px solid #8b5cf6",
             display: "flex",
             alignItems: "center",
             justifyContent: "center",
+            backgroundColor: "#8b5cf6",
+            fontSize: 56,
+            fontWeight: 700,
+            color: "white",
           }}
         >
-          {/* biome-ignore lint/performance/noImgElement: ImageResponse requires native img element */}
-          <img
-            src="https://avatars.githubusercontent.com/matkarimov099"
-            alt="Matkarimov Matkarim"
-            width={150}
-            height={150}
-            style={{
-              width: "100%",
-              height: "100%",
-              objectFit: "cover",
-            }}
-          />
+          KS
         </div>
 
         {/* Name */}
@@ -82,7 +74,7 @@ export async function GET() {
             textAlign: "center",
           }}
         >
-          Matkarimov Matkarim
+          Komilova Shohista
         </h1>
 
         {/* Title */}
@@ -94,20 +86,20 @@ export async function GET() {
             marginBottom: 30,
           }}
         >
-          Full Stack Developer
+          English Teacher
         </p>
 
-        {/* Tech stack */}
+        {/* Specializations */}
         <div
           style={{
             display: "flex",
             gap: 16,
           }}
         >
-          {["React", "Next.js", "TypeScript", "Node.js", "PostgreSQL"].map(
-            (tech) => (
+          {["IELTS", "CEFR", "General English", "Business English"].map(
+            (spec) => (
               <div
-                key={tech}
+                key={spec}
                 style={{
                   padding: "8px 20px",
                   borderRadius: 20,
@@ -117,7 +109,7 @@ export async function GET() {
                   fontSize: 18,
                 }}
               >
-                {tech}
+                {spec}
               </div>
             ),
           )}
@@ -131,7 +123,7 @@ export async function GET() {
             marginTop: 30,
           }}
         >
-          Tashkent, Uzbekistan
+          Urgench, Uzbekistan
         </p>
       </div>
     </div>,

@@ -12,17 +12,17 @@ const seoData: Record<Locale, { title: string; description: string }> = {
   en: {
     title: "Contact",
     description:
-      "Get in touch with Matkarim Matkarimov for collaboration, job opportunities, or project inquiries. Email, Telegram, LinkedIn available.",
+      "Get in touch with Komilova Shohista for English courses, IELTS preparation, or collaboration. Email, Telegram, LinkedIn available.",
   },
   ru: {
     title: "Контакты",
     description:
-      "Свяжитесь с Маткаримом Маткаримовым для сотрудничества, вакансий или проектов. Доступны Email, Telegram, LinkedIn.",
+      "Свяжитесь с Комиловой Шохистой для записи на курсы английского, подготовки к IELTS или сотрудничества. Доступны Email, Telegram, LinkedIn.",
   },
   uz: {
     title: "Aloqa",
     description:
-      "Matkarim Matkarimov bilan hamkorlik, ish takliflari yoki loyihalar uchun bog'laning. Email, Telegram, LinkedIn mavjud.",
+      "Komilova Shohista bilan ingliz tili kurslari, IELTS tayyorgarlik yoki hamkorlik uchun bog'laning. Email, Telegram, LinkedIn mavjud.",
   },
 };
 

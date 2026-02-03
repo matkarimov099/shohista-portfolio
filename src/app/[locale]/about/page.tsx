@@ -12,19 +12,19 @@ type Props = {
 
 const seoData: Record<Locale, { title: string; description: string }> = {
   en: {
-    title: "About Matkarimov Matkarim - Full Stack Developer",
+    title: "About Komilova Shohista - English Teacher",
     description:
-      "About Matkarim Matkarimov (Matkarimov Matkarim) - Full Stack Developer from Uzbekistan with 6+ years of experience. Expert in React, Next.js, TypeScript, Node.js. Graduate of TUIT, currently working at UNICON-SOFT in Tashkent.",
+      "About Komilova Shohista - English Teacher from Uzbekistan with 8+ years of experience. Expert in IELTS preparation, CEFR courses, General and Business English. Founder of Express Education Center, currently teaching at Unione International School.",
   },
   ru: {
-    title: "О Маткаримове Маткариме - Full Stack разработчик",
+    title: "О Комиловой Шохисте - Учитель английского языка",
     description:
-      "О Маткариме Маткаримове - Full Stack разработчик из Узбекистана с опытом 6+ лет. Эксперт в React, Next.js, TypeScript, Node.js. Выпускник ТУИТ, работает в UNICON-SOFT в Ташкенте.",
+      "О Комиловой Шохисте - Преподаватель английского языка из Узбекистана с опытом 8+ лет. Эксперт в подготовке к IELTS, курсах CEFR, общем и деловом английском. Основатель Express Education Center, преподаёт в Unione International School.",
   },
   uz: {
-    title: "Matkarimov Matkarim haqida - Full Stack dasturchi",
+    title: "Komilova Shohista haqida - Ingliz tili o'qituvchisi",
     description:
-      "Matkarim Matkarimov (Matkarimov Matkarim) haqida - O'zbekistondan 6+ yillik tajribaga ega Full Stack dasturchi. React, Next.js, TypeScript, Node.js bo'yicha ekspert. TUIT bitiruvchisi, Toshkentda UNICON-SOFTda ishlaydi.",
+      "Komilova Shohista haqida - O'zbekistondan 8+ yillik tajribaga ega ingliz tili o'qituvchisi. IELTS tayyorgarlik, CEFR kurslari, umumiy va biznes ingliz tili bo'yicha ekspert. Express Education Center asoschisi, Unione International Schoolda dars beradi.",
   },
 };
 
